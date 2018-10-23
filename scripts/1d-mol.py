@@ -18,4 +18,3 @@ while nombrePropose != nombrealeatoire:
     print("C'est trop grand !")
   else: 
     print("Bravo, vous avez trouvé le nombre aléatoire !")
-
