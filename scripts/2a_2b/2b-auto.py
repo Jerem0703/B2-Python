@@ -1,3 +1,9 @@
+#!/usr/bin/python3.7
+#2a-mol.py
+#jeu du plus ou moins automatisé
+#LESPRIT Jérémy 
+#11/11/2018
+
 from statistics import mean
 
 from 2a_2b.helpers import file_input, print_into_file
