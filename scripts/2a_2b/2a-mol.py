@@ -6,7 +6,7 @@
 
 from random import randint
 
-from plusoumoins.helpers import print_into_file, file_input
+from 2a_2b.helpers import print_into_file, file_input
 
 
 def get_answer(nombreAleatoire, nombrePropose):
@@ -25,7 +25,7 @@ def get_answer(nombreAleatoire, nombrePropose):
 
 MIN, MAX = 0, 100
 NUMBER = randint(MIN, MAX)
-FILE = "/myfile"
+FILE = "2a_2b/myfile"
 
 i = 0
 user_input = ''
