@@ -1,6 +1,6 @@
 #!/usr/bin/python3.7
 #2a-mol.py
-#jeu du plus ou moins
+#jeu du plus ou moins dans un fichier 
 #LESPRIT Jérémy 
 #04/11/2018
 
